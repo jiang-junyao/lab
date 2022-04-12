@@ -3,7 +3,6 @@
 
 This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
 
-I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
 
 You can find a live view of the template using the link below:
 
